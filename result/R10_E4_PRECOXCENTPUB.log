@@ -1,0 +1,37 @@
+Welcome to MAGMA v1.10 (linux)
+Using flags:
+	--annotate
+	--snp-loc dataset/MAGMA/g1000_eur/g1000_eur.bim
+	--gene-loc dataset/MAGMA/NCBI38.gene.loc
+	--out /mnt/f/PipeLine/SMR/result/R10_E4_PRECOXCENTPUB
+
+Start time is 14:31:07, Saturday 31 Oct 2026
+
+Starting annotation...
+Reading gene locations from file dataset/MAGMA/NCBI38.gene.loc... 
+	20137 gene locations read from file
+	chromosome  1: 2097 genes
+	chromosome  2: 1285 genes
+	chromosome  3: 1078 genes
+	chromosome  4: 765 genes
+	chromosome  5: 886 genes
+	chromosome  6: 1053 genes
+	chromosome  7: 942 genes
+	chromosome  8: 691 genes
+	chromosome  9: 803 genes
+	chromosome 10: 748 genes
+	chromosome 11: 1299 genes
+	chromosome 12: 1032 genes
+	chromosome 13: 341 genes
+	chromosome 14: 613 genes
+	chromosome 15: 616 genes
+	chromosome 16: 865 genes
+	chromosome 17: 1197 genes
+	chromosome 18: 283 genes
+	chromosome 19: 1423 genes
+	chromosome 20: 540 genes
+	chromosome 21: 246 genes
+	chromosome 22: 461 genes
+	chromosome  X: 825 genes
+	chromosome  Y: 48 genes
+Reading SNP locations from file dataset/MAGMA/g1000_eur/g1000_eur.bim... 

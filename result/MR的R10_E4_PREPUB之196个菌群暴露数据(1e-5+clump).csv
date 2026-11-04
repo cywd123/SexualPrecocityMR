@@ -1,0 +1,589 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"3cOJ1f","knSws2","outcome","class.Actinobacteria.id.419","Inverse variance weighted",15,-0.287957191690026,0.568458187756043,0.612464800102651
+"3cOJ1f","knSws2","outcome","class.Actinobacteria.id.419","MR Egger",15,-2.02736766944455,1.62314797938779,0.233675849143594
+"3cOJ1f","knSws2","outcome","class.Actinobacteria.id.419","Weighted median",15,-0.566262524073131,0.768531561333814,0.461237280345464
+"dP6VTT","knSws2","outcome","class.Alphaproteobacteria.id.2379","Inverse variance weighted",7,0.487460664032796,0.861222024313451,0.571386677901208
+"dP6VTT","knSws2","outcome","class.Alphaproteobacteria.id.2379","MR Egger",7,-1.39106591199597,3.41645428502738,0.700731062150751
+"dP6VTT","knSws2","outcome","class.Alphaproteobacteria.id.2379","Weighted median",7,0.755009058246317,0.905785353290192,0.404539791034355
+"IgBtIU","knSws2","outcome","class.Bacilli.id.1673","Inverse variance weighted",18,0.51393185362435,0.555566497952338,0.354935157908512
+"IgBtIU","knSws2","outcome","class.Bacilli.id.1673","MR Egger",18,1.49659772145105,1.54816866624359,0.348085252825245
+"IgBtIU","knSws2","outcome","class.Bacilli.id.1673","Weighted median",18,0.278097378909015,0.777855670876633,0.720704077270864
+"UTPK2n","knSws2","outcome","class.Bacteroidia.id.912","Inverse variance weighted",12,0.28084745596994,0.706867244578105,0.691136755506037
+"UTPK2n","knSws2","outcome","class.Bacteroidia.id.912","MR Egger",12,-2.42650331102188,1.63047842990431,0.16753499236859
+"UTPK2n","knSws2","outcome","class.Bacteroidia.id.912","Weighted median",12,-0.215337020226114,0.963714063422313,0.823189240028395
+"X4kHrP","knSws2","outcome","class.Betaproteobacteria.id.2867","Inverse variance weighted",10,1.10619940947684,0.839391565632547,0.187550980463346
+"X4kHrP","knSws2","outcome","class.Betaproteobacteria.id.2867","MR Egger",10,-2.83999397350555,2.40135167332678,0.270896400474568
+"X4kHrP","knSws2","outcome","class.Betaproteobacteria.id.2867","Weighted median",10,0.448238010403242,1.0122196112884,0.657890989096266
+"Fr2Ff4","knSws2","outcome","class.Clostridia.id.1859","Inverse variance weighted",11,-0.353759714358269,0.756976555545963,0.640262037623322
+"Fr2Ff4","knSws2","outcome","class.Clostridia.id.1859","MR Egger",11,-0.69543671618934,3.54787401189662,0.848952743107532
+"Fr2Ff4","knSws2","outcome","class.Clostridia.id.1859","Weighted median",11,-0.120684728884188,0.972540417225605,0.9012422340951
+"szt6bn","knSws2","outcome","class.Coriobacteriia.id.809","Inverse variance weighted",14,-0.498467011287547,0.653098396862123,0.445323755273103
+"szt6bn","knSws2","outcome","class.Coriobacteriia.id.809","MR Egger",14,-3.8920100241593,2.67853255573411,0.171858497123383
+"szt6bn","knSws2","outcome","class.Coriobacteriia.id.809","Weighted median",14,-0.184336939779665,0.854700452508686,0.829241618990846
+"n3j0op","knSws2","outcome","class.Deltaproteobacteria.id.3087","Inverse variance weighted",13,-0.574331973083848,0.688631665205152,0.404270211523079
+"n3j0op","knSws2","outcome","class.Deltaproteobacteria.id.3087","MR Egger",13,-1.71612545923272,1.86551697956943,0.377347221173117
+"n3j0op","knSws2","outcome","class.Deltaproteobacteria.id.3087","Weighted median",13,0.00331588820140975,0.851035563892985,0.996891211813695
+"ZJXDpG","knSws2","outcome","class.Erysipelotrichia.id.2147","Inverse variance weighted",13,0.531899732135117,0.716361951062365,0.457783620314354
+"ZJXDpG","knSws2","outcome","class.Erysipelotrichia.id.2147","MR Egger",13,-0.530925304067531,3.23966225746604,0.872795692437359
+"ZJXDpG","knSws2","outcome","class.Erysipelotrichia.id.2147","Weighted median",13,1.18607920638436,0.971958509306053,0.222351856985304
+"FRQYhm","knSws2","outcome","class.Gammaproteobacteria.id.3303","Inverse variance weighted",7,-0.481510772768139,1.13133850119497,0.670390897118105
+"FRQYhm","knSws2","outcome","class.Gammaproteobacteria.id.3303","MR Egger",7,-7.48250878739082,2.93295968518228,0.0511925132593179
+"FRQYhm","knSws2","outcome","class.Gammaproteobacteria.id.3303","Weighted median",7,-0.298577417373581,1.31630878213445,0.82055646887801
+"nQHoYD","knSws2","outcome","class.Lentisphaeria.id.2250","Inverse variance weighted",8,-0.0736202652683994,0.449276562921779,0.869838189292943
+"nQHoYD","knSws2","outcome","class.Lentisphaeria.id.2250","MR Egger",8,0.131170147984905,1.61054409077114,0.937737241097926
+"nQHoYD","knSws2","outcome","class.Lentisphaeria.id.2250","Weighted median",8,-0.0732945030093509,0.58837722586108,0.900863506261106
+"Msb4zz","knSws2","outcome","class.Melainabacteria.id.1589","Inverse variance weighted",10,-0.590788859145125,0.452541456535446,0.191725664276443
+"Msb4zz","knSws2","outcome","class.Melainabacteria.id.1589","MR Egger",10,-1.1592185635855,1.37590718969446,0.423971809714793
+"Msb4zz","knSws2","outcome","class.Melainabacteria.id.1589","Weighted median",10,-0.553130766659133,0.594251956540982,0.351956119451083
+"3Oo7Td","knSws2","outcome","class.Methanobacteria.id.119","Inverse variance weighted",10,-0.321746128456329,0.366692263210921,0.380254107615064
+"3Oo7Td","knSws2","outcome","class.Methanobacteria.id.119","MR Egger",10,0.200799126463101,1.51848406296494,0.898062608908113
+"3Oo7Td","knSws2","outcome","class.Methanobacteria.id.119","Weighted median",10,-0.468978630953041,0.483771663578406,0.332334950879219
+"nRNBx9","knSws2","outcome","class.Mollicutes.id.3920","Inverse variance weighted",12,0.0869709687618882,0.642074189687439,0.892253607080139
+"nRNBx9","knSws2","outcome","class.Mollicutes.id.3920","MR Egger",12,1.60983727715234,2.25765464541239,0.492114372148906
+"nRNBx9","knSws2","outcome","class.Mollicutes.id.3920","Weighted median",12,0.445872677737845,0.810474543052473,0.582224865498807
+"MXS84H","knSws2","outcome","class.Negativicutes.id.2164","Inverse variance weighted",12,-0.43440028047766,0.703647188138357,0.53700043676032
+"MXS84H","knSws2","outcome","class.Negativicutes.id.2164","MR Egger",12,0.134303157813973,2.42562067135022,0.956935450422664
+"MXS84H","knSws2","outcome","class.Negativicutes.id.2164","Weighted median",12,-0.0875089096989948,0.899745093749961,0.922520183848482
+"UsMxlz","knSws2","outcome","class.Verrucomicrobiae.id.4029","Inverse variance weighted",11,0.446805544259772,0.581075084263141,0.441935398448898
+"UsMxlz","knSws2","outcome","class.Verrucomicrobiae.id.4029","MR Egger",11,0.56606948984124,1.9087808998889,0.773531697540287
+"UsMxlz","knSws2","outcome","class.Verrucomicrobiae.id.4029","Weighted median",11,0.69297258999896,0.76440124253734,0.364641598980674
+"pXAgfu","knSws2","outcome","family.Acidaminococcaceae.id.2166","Inverse variance weighted",7,0.865158938369098,0.881443290821198,0.326333737571069
+"pXAgfu","knSws2","outcome","family.Acidaminococcaceae.id.2166","MR Egger",7,-0.711270594110898,2.80415733448544,0.809866844168052
+"pXAgfu","knSws2","outcome","family.Acidaminococcaceae.id.2166","Weighted median",7,0.245362821792104,1.02343174785274,0.810527812736974
+"FFi1Rd","knSws2","outcome","family.Actinomycetaceae.id.421","Inverse variance weighted",4,1.30997338152497,0.737835518035757,0.0758273462552206
+"FFi1Rd","knSws2","outcome","family.Actinomycetaceae.id.421","MR Egger",4,2.38272568032879,1.60402998760973,0.275737362458286
+"FFi1Rd","knSws2","outcome","family.Actinomycetaceae.id.421","Weighted median",4,1.76997032016993,0.909992246464013,0.0517702963728961
+"WEMGli","knSws2","outcome","family.Alcaligenaceae.id.2875","Inverse variance weighted",11,1.7744389587828,0.884367568308334,0.0448083002984728
+"WEMGli","knSws2","outcome","family.Alcaligenaceae.id.2875","MR Egger",11,-5.174804870054,3.57172446987363,0.181315537444612
+"WEMGli","knSws2","outcome","family.Alcaligenaceae.id.2875","Weighted median",11,0.300484605509002,1.09672425680697,0.784097123002171
+"O0n2Pz","knSws2","outcome","family.Bacteroidaceae.id.917","Inverse variance weighted",9,-1.19621069198281,0.780032047336055,0.125142749632981
+"O0n2Pz","knSws2","outcome","family.Bacteroidaceae.id.917","MR Egger",9,4.56348548714664,4.05366387217396,0.297375156608482
+"O0n2Pz","knSws2","outcome","family.Bacteroidaceae.id.917","Weighted median",9,-1.59585811492346,1.06438089588855,0.133788066171446
+"DwGyne","knSws2","outcome","family.BacteroidalesS24.7group.id.11173","Inverse variance weighted",8,-0.601997426473164,0.547451098559365,0.271490359687923
+"DwGyne","knSws2","outcome","family.BacteroidalesS24.7group.id.11173","MR Egger",8,0.294228274391032,2.20702543789301,0.898303671503392
+"DwGyne","knSws2","outcome","family.BacteroidalesS24.7group.id.11173","Weighted median",8,-0.41608945335883,0.730403296062874,0.56890097678274
+"LRKdIa","knSws2","outcome","family.Bifidobacteriaceae.id.433","Inverse variance weighted",11,-0.171175564159461,0.612669482293318,0.779943243110631
+"LRKdIa","knSws2","outcome","family.Bifidobacteriaceae.id.433","MR Egger",11,-3.33188937178261,1.94072337411271,0.120141181023063
+"LRKdIa","knSws2","outcome","family.Bifidobacteriaceae.id.433","Weighted median",11,-0.811600920025623,0.824849868223921,0.325146123186918
+"31r1VV","knSws2","outcome","family.Christensenellaceae.id.1866","Inverse variance weighted",11,-0.0801845899766705,0.655105527402407,0.90258263329726
+"31r1VV","knSws2","outcome","family.Christensenellaceae.id.1866","MR Egger",11,0.593224232579863,1.31308482240206,0.662118809063955
+"31r1VV","knSws2","outcome","family.Christensenellaceae.id.1866","Weighted median",11,-0.0440007640894647,0.77281615583957,0.954596482643764
+"FcqSNY","knSws2","outcome","family.Clostridiaceae1.id.1869","Inverse variance weighted",10,0.112642425899386,0.693605667080144,0.870989888185233
+"FcqSNY","knSws2","outcome","family.Clostridiaceae1.id.1869","MR Egger",10,0.409174890211392,2.12984345672548,0.852439083370265
+"FcqSNY","knSws2","outcome","family.Clostridiaceae1.id.1869","Weighted median",10,0.251960348763677,0.962685543268558,0.793532283680563
+"CUtsMo","knSws2","outcome","family.ClostridialesvadinBB60group.id.11286","Inverse variance weighted",15,-0.413110384765665,0.509310327985421,0.417298349410817
+"CUtsMo","knSws2","outcome","family.ClostridialesvadinBB60group.id.11286","MR Egger",15,0.211788007324551,1.43655677350807,0.885056546663034
+"CUtsMo","knSws2","outcome","family.ClostridialesvadinBB60group.id.11286","Weighted median",15,-0.00880824038419759,0.654835586727472,0.989267921247829
+"MBOR7Y","knSws2","outcome","family.Coriobacteriaceae.id.811","Inverse variance weighted",14,-0.498467011287547,0.653098396862123,0.445323755273103
+"MBOR7Y","knSws2","outcome","family.Coriobacteriaceae.id.811","MR Egger",14,-3.8920100241593,2.67853255573411,0.171858497123383
+"MBOR7Y","knSws2","outcome","family.Coriobacteriaceae.id.811","Weighted median",14,-0.184336939779665,0.930953362686307,0.843038194127469
+"kodRd1","knSws2","outcome","family.Defluviitaleaceae.id.1924","Inverse variance weighted",11,-0.0741366709069322,0.522460041611273,0.887159612669099
+"kodRd1","knSws2","outcome","family.Defluviitaleaceae.id.1924","MR Egger",11,-0.249437259869541,1.7885859206261,0.89215714692336
+"kodRd1","knSws2","outcome","family.Defluviitaleaceae.id.1924","Weighted median",11,-0.338594111057478,0.669844606273983,0.613220631606984
+"6jMcBB","knSws2","outcome","family.Desulfovibrionaceae.id.3169","Inverse variance weighted",10,-0.773366898320958,0.726322620015868,0.286979798402142
+"6jMcBB","knSws2","outcome","family.Desulfovibrionaceae.id.3169","MR Egger",10,-1.66940490706276,1.84267592983345,0.391422038441061
+"6jMcBB","knSws2","outcome","family.Desulfovibrionaceae.id.3169","Weighted median",10,-0.0562244714148804,0.96824373230305,0.953694056968204
+"m9LXEq","knSws2","outcome","family.Enterobacteriaceae.id.3469","Inverse variance weighted",7,-0.247660429569834,0.841883230442761,0.768624700096898
+"m9LXEq","knSws2","outcome","family.Enterobacteriaceae.id.3469","MR Egger",7,-5.97091955471603,5.02614432100924,0.28819356356585
+"m9LXEq","knSws2","outcome","family.Enterobacteriaceae.id.3469","Weighted median",7,-0.270811983483158,1.13519381940084,0.811446685306101
+"yfxJv6","knSws2","outcome","family.Erysipelotrichaceae.id.2149","Inverse variance weighted",13,0.531899732135117,0.716361951062365,0.457783620314354
+"yfxJv6","knSws2","outcome","family.Erysipelotrichaceae.id.2149","MR Egger",13,-0.530925304067531,3.23966225746604,0.872795692437359
+"yfxJv6","knSws2","outcome","family.Erysipelotrichaceae.id.2149","Weighted median",13,1.18607920638436,0.98403029991441,0.228076730732082
+"FXBXNG","knSws2","outcome","family.FamilyXI.id.1936","Inverse variance weighted",8,-0.00595059042752171,0.361671154850812,0.986872964669532
+"FXBXNG","knSws2","outcome","family.FamilyXI.id.1936","MR Egger",8,-0.561137283477674,2.31481330697874,0.816534917203101
+"FXBXNG","knSws2","outcome","family.FamilyXI.id.1936","Weighted median",8,-0.178183632796764,0.430190315255286,0.678729677346384
+"ylev3A","knSws2","outcome","family.FamilyXIII.id.1957","Inverse variance weighted",10,-0.24538734436947,0.69340663945102,0.72342384126537
+"ylev3A","knSws2","outcome","family.FamilyXIII.id.1957","MR Egger",10,0.0468890582330255,2.20376231140341,0.983545944234686
+"ylev3A","knSws2","outcome","family.FamilyXIII.id.1957","Weighted median",10,-0.422624825495248,0.911954501332971,0.64305794655334
+"nFlAu5","knSws2","outcome","family.Lachnospiraceae.id.1987","Inverse variance weighted",16,-0.0962451641097059,0.668327701467447,0.885493409832923
+"nFlAu5","knSws2","outcome","family.Lachnospiraceae.id.1987","MR Egger",16,1.67545190933222,2.37691427032882,0.492442709282882
+"nFlAu5","knSws2","outcome","family.Lachnospiraceae.id.1987","Weighted median",16,-0.40979413298106,0.880442558491061,0.641615623511622
+"d9u3Wa","knSws2","outcome","family.Lactobacillaceae.id.1836","Inverse variance weighted",8,-0.59431058575293,0.488996501750632,0.224225856508541
+"d9u3Wa","knSws2","outcome","family.Lactobacillaceae.id.1836","MR Egger",8,-0.548715776711617,1.28780794353759,0.684907749610975
+"d9u3Wa","knSws2","outcome","family.Lactobacillaceae.id.1836","Weighted median",8,-0.645746706323135,0.658323019542613,0.326643813166041
+"Y7cF3n","knSws2","outcome","family.Methanobacteriaceae.id.121","Inverse variance weighted",10,-0.321746128456329,0.366692263210921,0.380254107615064
+"Y7cF3n","knSws2","outcome","family.Methanobacteriaceae.id.121","MR Egger",10,0.200799126463101,1.51848406296494,0.898062608908113
+"Y7cF3n","knSws2","outcome","family.Methanobacteriaceae.id.121","Weighted median",10,-0.468978630953041,0.483995651682653,0.332558751054719
+"T35lgz","knSws2","outcome","family.Oxalobacteraceae.id.2966","Inverse variance weighted",14,0.154830401669466,0.528435043467035,0.76952369371557
+"T35lgz","knSws2","outcome","family.Oxalobacteraceae.id.2966","MR Egger",14,2.56930425596517,1.99007376495978,0.221000490064148
+"T35lgz","knSws2","outcome","family.Oxalobacteraceae.id.2966","Weighted median",14,0.498883036713399,0.571208570398,0.382455134318269
+"Xtktja","knSws2","outcome","family.Pasteurellaceae.id.3689","Inverse variance weighted",14,-0.447237321520379,0.422431541396036,0.28972666959065
+"Xtktja","knSws2","outcome","family.Pasteurellaceae.id.3689","MR Egger",14,-2.03991894464707,0.921517293613741,0.0469712501874561
+"Xtktja","knSws2","outcome","family.Pasteurellaceae.id.3689","Weighted median",14,-0.79842910655686,0.613200230640887,0.192892746047485
+"T8T6Lu","knSws2","outcome","family.Peptococcaceae.id.2024","Inverse variance weighted",9,-0.31283162609586,0.590364461242993,0.596184204629782
+"T8T6Lu","knSws2","outcome","family.Peptococcaceae.id.2024","MR Egger",9,0.85979326645635,1.66335935261657,0.621150543177935
+"T8T6Lu","knSws2","outcome","family.Peptococcaceae.id.2024","Weighted median",9,-0.396023913088561,0.740836493879505,0.592951949071586
+"oU56W6","knSws2","outcome","family.Peptostreptococcaceae.id.2042","Inverse variance weighted",13,-0.0107317371457075,0.669694828060052,0.987214593037061
+"oU56W6","knSws2","outcome","family.Peptostreptococcaceae.id.2042","MR Egger",13,0.395178815193719,1.59354714907648,0.808712927470375
+"oU56W6","knSws2","outcome","family.Peptostreptococcaceae.id.2042","Weighted median",13,0.147928580270852,0.79074474498269,0.851601822174647
+"SpO9Ka","knSws2","outcome","family.Porphyromonadaceae.id.943","Inverse variance weighted",9,-0.760743224730525,0.879772905602004,0.387201227167881
+"SpO9Ka","knSws2","outcome","family.Porphyromonadaceae.id.943","MR Egger",9,1.03118584155736,3.91570431956265,0.799867250315531
+"SpO9Ka","knSws2","outcome","family.Porphyromonadaceae.id.943","Weighted median",9,-0.361180504840214,1.11419819929401,0.74581553356676
+"axDRMS","knSws2","outcome","family.Prevotellaceae.id.960","Inverse variance weighted",16,-1.35093169161372,0.533547922636422,0.0113421053004859
+"axDRMS","knSws2","outcome","family.Prevotellaceae.id.960","MR Egger",16,-3.59809738247817,1.67687504849699,0.0499135965120394
+"axDRMS","knSws2","outcome","family.Prevotellaceae.id.960","Weighted median",16,-1.93516945280516,0.747357907015841,0.00961579569379874
+"Bt1upE","knSws2","outcome","family.Rhodospirillaceae.id.2717","Inverse variance weighted",15,-0.0152456628850607,0.423247624618374,0.971265877615455
+"Bt1upE","knSws2","outcome","family.Rhodospirillaceae.id.2717","MR Egger",15,2.64942376436166,1.78426839974152,0.161416232524195
+"Bt1upE","knSws2","outcome","family.Rhodospirillaceae.id.2717","Weighted median",15,0.309210141661948,0.602224443079768,0.607638898711608
+"BLSFBU","knSws2","outcome","family.Rikenellaceae.id.967","Inverse variance weighted",16,0.383076012735888,0.583862885565283,0.511755846683269
+"BLSFBU","knSws2","outcome","family.Rikenellaceae.id.967","MR Egger",16,-2.17557465763333,1.77770227838299,0.241220751909771
+"BLSFBU","knSws2","outcome","family.Rikenellaceae.id.967","Weighted median",16,-0.204699324058004,0.820485329041479,0.802985131739887
+"vlyGOP","knSws2","outcome","family.Ruminococcaceae.id.2050","Inverse variance weighted",10,0.443430330768525,0.686691923092308,0.518442196819012
+"vlyGOP","knSws2","outcome","family.Ruminococcaceae.id.2050","MR Egger",10,1.98387146545322,1.4916260029385,0.220183600787649
+"vlyGOP","knSws2","outcome","family.Ruminococcaceae.id.2050","Weighted median",10,0.153706651626965,0.911651078032822,0.866109313360365
+"1zf0TZ","knSws2","outcome","family.Streptococcaceae.id.1850","Inverse variance weighted",14,-0.142803825557142,0.633932638279803,0.821771911321452
+"1zf0TZ","knSws2","outcome","family.Streptococcaceae.id.1850","MR Egger",14,-2.52122718118385,2.57962935085213,0.347683492574121
+"1zf0TZ","knSws2","outcome","family.Streptococcaceae.id.1850","Weighted median",14,0.086595206442087,0.868600471426082,0.920586394832995
+"obtxsV","knSws2","outcome","family.Veillonellaceae.id.2172","Inverse variance weighted",19,-0.855303442513999,0.474199556352848,0.0712817556595883
+"obtxsV","knSws2","outcome","family.Veillonellaceae.id.2172","MR Egger",19,-0.560656995563093,0.967084021733439,0.569694449325583
+"obtxsV","knSws2","outcome","family.Veillonellaceae.id.2172","Weighted median",19,-0.887503522952048,0.683339898879358,0.194021786671311
+"AXpdwL","knSws2","outcome","family.Verrucomicrobiaceae.id.4036","Inverse variance weighted",11,0.446368564499101,0.581212453553431,0.442489842387725
+"AXpdwL","knSws2","outcome","family.Verrucomicrobiaceae.id.4036","MR Egger",11,0.560140678913421,1.90865438749153,0.775814589598696
+"AXpdwL","knSws2","outcome","family.Verrucomicrobiaceae.id.4036","Weighted median",11,0.692403716737633,0.773202702420491,0.370519384321768
+"Sgv0J4","knSws2","outcome","family.Victivallaceae.id.2255","Inverse variance weighted",12,-0.326590672446944,0.318697577999813,0.305473271787488
+"Sgv0J4","knSws2","outcome","family.Victivallaceae.id.2255","MR Egger",12,-1.84419337455257,1.51340934107497,0.250974817172076
+"Sgv0J4","knSws2","outcome","family.Victivallaceae.id.2255","Weighted median",12,-0.535183537424313,0.425536081121402,0.208511488081027
+"7dqlOH","knSws2","outcome","genus..Clostridiuminnocuumgroup.id.14397","Inverse variance weighted",8,0.271573316714145,0.583203338318341,0.641460299640257
+"7dqlOH","knSws2","outcome","genus..Clostridiuminnocuumgroup.id.14397","MR Egger",8,3.3214238957333,2.90757192912081,0.296841786180789
+"7dqlOH","knSws2","outcome","genus..Clostridiuminnocuumgroup.id.14397","Weighted median",8,0.751756455791807,0.612410874179789,0.219621162307958
+"Rv99Lm","knSws2","outcome","genus..Eubacteriumbrachygroup.id.11296","Inverse variance weighted",10,-0.457493664602479,0.379552981771354,0.228068745656413
+"Rv99Lm","knSws2","outcome","genus..Eubacteriumbrachygroup.id.11296","MR Egger",10,-1.52985104868416,1.52638868787455,0.345562097550434
+"Rv99Lm","knSws2","outcome","genus..Eubacteriumbrachygroup.id.11296","Weighted median",10,-0.204874095775041,0.507938301884993,0.68669484507135
+"rlb7o5","knSws2","outcome","genus..Eubacteriumcoprostanoligenesgroup.id.11375","Inverse variance weighted",13,0.948675102747491,0.813942169521938,0.243803984312114
+"rlb7o5","knSws2","outcome","genus..Eubacteriumcoprostanoligenesgroup.id.11375","MR Egger",13,3.6944453105148,3.22698971588869,0.276567278804636
+"rlb7o5","knSws2","outcome","genus..Eubacteriumcoprostanoligenesgroup.id.11375","Weighted median",13,0.978316424366855,1.01481992321607,0.335031095974006
+"WvdQyb","knSws2","outcome","genus..Eubacteriumeligensgroup.id.14372","Inverse variance weighted",7,-1.25311387538914,0.860171914899036,0.145166642959914
+"WvdQyb","knSws2","outcome","genus..Eubacteriumeligensgroup.id.14372","MR Egger",7,2.05322806016207,3.33984175840936,0.565604299232629
+"WvdQyb","knSws2","outcome","genus..Eubacteriumeligensgroup.id.14372","Weighted median",7,-0.350739449428864,1.12153967646852,0.754485566583604
+"TGrzdF","knSws2","outcome","genus..Eubacteriumfissicatenagroup.id.14373","Inverse variance weighted",9,0.33245030302198,0.402500215268629,0.408825055948077
+"TGrzdF","knSws2","outcome","genus..Eubacteriumfissicatenagroup.id.14373","MR Egger",9,1.54964070524041,2.07761979415244,0.480036304970826
+"TGrzdF","knSws2","outcome","genus..Eubacteriumfissicatenagroup.id.14373","Weighted median",9,-0.191500215138602,0.525653347438879,0.715627322879648
+"P9709V","knSws2","outcome","genus..Eubacteriumhalliigroup.id.11338","Inverse variance weighted",14,-0.475092251060603,0.654823564549027,0.468128717021016
+"P9709V","knSws2","outcome","genus..Eubacteriumhalliigroup.id.11338","MR Egger",14,2.43998121792044,1.15614589715934,0.0564869691861193
+"P9709V","knSws2","outcome","genus..Eubacteriumhalliigroup.id.11338","Weighted median",14,-1.23376938995348,0.857057623094466,0.149997367593688
+"olDlSu","knSws2","outcome","genus..Eubacteriumnodatumgroup.id.11297","Inverse variance weighted",11,-0.036561465135417,0.328335217007804,0.911335574514464
+"olDlSu","knSws2","outcome","genus..Eubacteriumnodatumgroup.id.11297","MR Egger",11,0.142249387925606,1.46363777044029,0.92470629068622
+"olDlSu","knSws2","outcome","genus..Eubacteriumnodatumgroup.id.11297","Weighted median",11,0.122334768035631,0.438270608546748,0.780144547897044
+"nnD7ru","knSws2","outcome","genus..Eubacteriumoxidoreducensgroup.id.11339","Inverse variance weighted",5,-1.33469881515839,0.599236501526326,0.025925073349745
+"nnD7ru","knSws2","outcome","genus..Eubacteriumoxidoreducensgroup.id.11339","MR Egger",5,-0.391857228613129,2.21505749442572,0.87085139445633
+"nnD7ru","knSws2","outcome","genus..Eubacteriumoxidoreducensgroup.id.11339","Weighted median",5,-1.74382026602558,0.814276624761912,0.032229101534872
+"37ZEpI","knSws2","outcome","genus..Eubacteriumrectalegroup.id.14374","Inverse variance weighted",8,-0.682303373407483,0.8347547291088,0.413717082648428
+"37ZEpI","knSws2","outcome","genus..Eubacteriumrectalegroup.id.14374","MR Egger",8,-2.56374020065979,3.05979641524865,0.434199607605921
+"37ZEpI","knSws2","outcome","genus..Eubacteriumrectalegroup.id.14374","Weighted median",8,-0.823612888726894,1.09957721965226,0.453841007279019
+"77YJKV","knSws2","outcome","genus..Eubacteriumruminantiumgroup.id.11340","Inverse variance weighted",18,-0.267475911816852,0.366697503316038,0.465745756418413
+"77YJKV","knSws2","outcome","genus..Eubacteriumruminantiumgroup.id.11340","MR Egger",18,-2.22243165782611,1.21377111525549,0.0857854991071753
+"77YJKV","knSws2","outcome","genus..Eubacteriumruminantiumgroup.id.11340","Weighted median",18,-0.805344985647673,0.515808015566393,0.118446614293384
+"anDrA2","knSws2","outcome","genus..Eubacteriumventriosumgroup.id.11341","Inverse variance weighted",15,0.28262223767251,0.599408653409084,0.637282459989473
+"anDrA2","knSws2","outcome","genus..Eubacteriumventriosumgroup.id.11341","MR Egger",15,1.3059944691677,2.74185803770909,0.641754260752297
+"anDrA2","knSws2","outcome","genus..Eubacteriumventriosumgroup.id.11341","Weighted median",15,0.306140822916051,0.812421567027807,0.706303600346144
+"Qyd7XB","knSws2","outcome","genus..Eubacteriumxylanophilumgroup.id.14375","Inverse variance weighted",9,-0.449234737469314,0.643586542273341,0.485166183687018
+"Qyd7XB","knSws2","outcome","genus..Eubacteriumxylanophilumgroup.id.14375","MR Egger",9,0.659352859658802,1.95218350388495,0.745452997308928
+"Qyd7XB","knSws2","outcome","genus..Eubacteriumxylanophilumgroup.id.14375","Weighted median",9,-0.441048886971677,0.882373966979114,0.617185282194294
+"GNp2YQ","knSws2","outcome","genus..Ruminococcusgauvreauiigroup.id.11342","Inverse variance weighted",12,-0.0714784387164716,0.649619705473527,0.912384627476025
+"GNp2YQ","knSws2","outcome","genus..Ruminococcusgauvreauiigroup.id.11342","MR Egger",12,3.52388922284367,2.5450703595397,0.196289868573792
+"GNp2YQ","knSws2","outcome","genus..Ruminococcusgauvreauiigroup.id.11342","Weighted median",12,0.465374119741519,0.836356632378432,0.577916772719968
+"R6RQXL","knSws2","outcome","genus..Ruminococcusgnavusgroup.id.14376","Inverse variance weighted",11,0.127687512395745,0.473557782817479,0.787441461719526
+"R6RQXL","knSws2","outcome","genus..Ruminococcusgnavusgroup.id.14376","MR Egger",11,2.34418649796852,2.26906645713162,0.328515659440115
+"R6RQXL","knSws2","outcome","genus..Ruminococcusgnavusgroup.id.14376","Weighted median",11,0.0411300993126595,0.608592144735605,0.946118090261201
+"qE3Gq8","knSws2","outcome","genus..Ruminococcustorquesgroup.id.14377","Inverse variance weighted",9,-0.52134043050918,0.95679162035708,0.585833311818503
+"qE3Gq8","knSws2","outcome","genus..Ruminococcustorquesgroup.id.14377","MR Egger",9,-1.01885061976252,3.30023607814547,0.766519394982794
+"qE3Gq8","knSws2","outcome","genus..Ruminococcustorquesgroup.id.14377","Weighted median",9,-0.746076136769178,1.18602713049008,0.529313137755307
+"FT7OrH","knSws2","outcome","genus.Actinomyces.id.423","Inverse variance weighted",7,0.689289073395272,0.569090257411132,0.225814080988927
+"FT7OrH","knSws2","outcome","genus.Actinomyces.id.423","MR Egger",7,0.900556081201603,1.38757209202752,0.544955939660488
+"FT7OrH","knSws2","outcome","genus.Actinomyces.id.423","Weighted median",7,0.784978231261305,0.747996862840611,0.293975408271522
+"JHChB7","knSws2","outcome","genus.Adlercreutzia.id.812","Inverse variance weighted",8,-1.1466090558108,0.609507225466178,0.0599438112417111
+"JHChB7","knSws2","outcome","genus.Adlercreutzia.id.812","MR Egger",8,1.32965934168162,2.71767596551546,0.64202562106859
+"JHChB7","knSws2","outcome","genus.Adlercreutzia.id.812","Weighted median",8,-1.66311553344482,0.799703254547898,0.0375561942214478
+"uHEy8Q","knSws2","outcome","genus.Akkermansia.id.4037","Inverse variance weighted",11,0.446260536068936,0.581001085350022,0.44243431829998
+"uHEy8Q","knSws2","outcome","genus.Akkermansia.id.4037","MR Egger",11,0.560475109883471,1.90782836462198,0.775590861944666
+"uHEy8Q","knSws2","outcome","genus.Akkermansia.id.4037","Weighted median",11,0.690382209569653,0.765673986678583,0.367234313363763
+"YXZeGZ","knSws2","outcome","genus.Alistipes.id.968","Inverse variance weighted",13,-1.30353621534135,0.760944738896354,0.0867033824308349
+"YXZeGZ","knSws2","outcome","genus.Alistipes.id.968","MR Egger",13,3.53537026282848,3.51971052257239,0.33674640273893
+"YXZeGZ","knSws2","outcome","genus.Alistipes.id.968","Weighted median",13,-1.2636971405498,1.01077054814883,0.21121500677846
+"zkWLyI","knSws2","outcome","genus.Allisonella.id.2174","Inverse variance weighted",8,-0.245931763273026,0.361100124806096,0.495831927395619
+"zkWLyI","knSws2","outcome","genus.Allisonella.id.2174","MR Egger",8,1.79283179149169,2.43922522805984,0.490058595827436
+"zkWLyI","knSws2","outcome","genus.Allisonella.id.2174","Weighted median",8,-0.31272356326716,0.484362273280281,0.518512652997088
+"OtCSo3","knSws2","outcome","genus.Alloprevotella.id.961","Inverse variance weighted",5,-0.0987433140378119,0.723425483659132,0.891430684344688
+"OtCSo3","knSws2","outcome","genus.Alloprevotella.id.961","MR Egger",5,8.19589121517056,5.3822121965064,0.225187967430072
+"OtCSo3","knSws2","outcome","genus.Alloprevotella.id.961","Weighted median",5,0.110379888608259,0.74965194470409,0.88294139287186
+"WCt5pC","knSws2","outcome","genus.Anaerofilum.id.2053","Inverse variance weighted",10,0.415460569286364,0.555810693996517,0.454770405882183
+"WCt5pC","knSws2","outcome","genus.Anaerofilum.id.2053","MR Egger",10,2.00431346230825,3.17128862127895,0.545008637273741
+"WCt5pC","knSws2","outcome","genus.Anaerofilum.id.2053","Weighted median",10,0.217709652676274,0.635940161033579,0.73209279069526
+"80h8vf","knSws2","outcome","genus.Anaerostipes.id.1991","Inverse variance weighted",13,-0.370574109629719,0.682604421767647,0.587210590084664
+"80h8vf","knSws2","outcome","genus.Anaerostipes.id.1991","MR Egger",13,0.543960627394471,2.54952866576108,0.834951124286877
+"80h8vf","knSws2","outcome","genus.Anaerostipes.id.1991","Weighted median",13,-0.308155315031802,0.94107275304104,0.743326717023334
+"aToCrK","knSws2","outcome","genus.Anaerotruncus.id.2054","Inverse variance weighted",13,0.916938293614276,0.769047726197069,0.233142263676218
+"aToCrK","knSws2","outcome","genus.Anaerotruncus.id.2054","MR Egger",13,-3.5405924736767,1.91441984248504,0.0914247025584125
+"aToCrK","knSws2","outcome","genus.Anaerotruncus.id.2054","Weighted median",13,1.21017901858418,0.983958612039701,0.218731386851477
+"Vd8Fsi","knSws2","outcome","genus.Bacteroides.id.918","Inverse variance weighted",9,-1.19621069198281,0.780032047336055,0.125142749632981
+"Vd8Fsi","knSws2","outcome","genus.Bacteroides.id.918","MR Egger",9,4.56348548714664,4.05366387217396,0.297375156608482
+"Vd8Fsi","knSws2","outcome","genus.Bacteroides.id.918","Weighted median",9,-1.59585811492346,1.02628072883376,0.119948022944166
+"mz9jd0","knSws2","outcome","genus.Barnesiella.id.944","Inverse variance weighted",13,0.443700014582308,0.611517526335061,0.468101171295556
+"mz9jd0","knSws2","outcome","genus.Barnesiella.id.944","MR Egger",13,1.12303906479238,2.55124756888501,0.66832242058228
+"mz9jd0","knSws2","outcome","genus.Barnesiella.id.944","Weighted median",13,0.460232544812065,0.814178532094755,0.571888588782531
+"RKlTkD","knSws2","outcome","genus.Bifidobacterium.id.436","Inverse variance weighted",12,-0.0252247954558697,0.543461612083304,0.962979444857055
+"RKlTkD","knSws2","outcome","genus.Bifidobacterium.id.436","MR Egger",12,-1.16925201066893,1.3551753979342,0.408460418079597
+"RKlTkD","knSws2","outcome","genus.Bifidobacterium.id.436","Weighted median",12,0.293739458338679,0.810544101660342,0.717054728805727
+"4zBtt2","knSws2","outcome","genus.Bilophila.id.3170","Inverse variance weighted",13,-0.449568937115047,0.743925457191022,0.545630996950698
+"4zBtt2","knSws2","outcome","genus.Bilophila.id.3170","MR Egger",13,2.69913159907669,3.70960004170493,0.4820542794904
+"4zBtt2","knSws2","outcome","genus.Bilophila.id.3170","Weighted median",13,-0.981412709243097,0.898069727437348,0.274480589310677
+"aKXyAu","knSws2","outcome","genus.Blautia.id.1992","Inverse variance weighted",13,-1.60360205982602,0.834547071438311,0.0546657048586154
+"aKXyAu","knSws2","outcome","genus.Blautia.id.1992","MR Egger",13,1.68866266176732,2.05608560567964,0.428916777532631
+"aKXyAu","knSws2","outcome","genus.Blautia.id.1992","Weighted median",13,-1.09298980443531,0.982973267862476,0.266171600087561
+"yakWtY","knSws2","outcome","genus.Butyricicoccus.id.2055","Inverse variance weighted",8,0.309615875601343,0.737436951006097,0.67459209189767
+"yakWtY","knSws2","outcome","genus.Butyricicoccus.id.2055","MR Egger",8,0.516490325162624,1.46081443605606,0.73575782588633
+"yakWtY","knSws2","outcome","genus.Butyricicoccus.id.2055","Weighted median",8,0.660154582452152,1.03753400605153,0.52459868348299
+"jUcEpg","knSws2","outcome","genus.Butyricimonas.id.945","Inverse variance weighted",13,-0.465442276461305,0.562452927057479,0.407941151718084
+"jUcEpg","knSws2","outcome","genus.Butyricimonas.id.945","MR Egger",13,-3.14079228640804,1.99031641299322,0.142861870822169
+"jUcEpg","knSws2","outcome","genus.Butyricimonas.id.945","Weighted median",13,-0.867019672548854,0.776682655661521,0.264288880151284
+"UYJxH8","knSws2","outcome","genus.Butyrivibrio.id.1993","Inverse variance weighted",15,0.471124156202119,0.273655880787103,0.0851432009628001
+"UYJxH8","knSws2","outcome","genus.Butyrivibrio.id.1993","MR Egger",15,0.57680957451055,1.17940779581016,0.632941848981754
+"UYJxH8","knSws2","outcome","genus.Butyrivibrio.id.1993","Weighted median",15,0.558227061666322,0.378657695314324,0.140420721727052
+"j4g0ZV","knSws2","outcome","genus.CandidatusSoleaferrea.id.11350","Inverse variance weighted",9,-0.208909363883871,0.478807366892237,0.662610431066148
+"j4g0ZV","knSws2","outcome","genus.CandidatusSoleaferrea.id.11350","MR Egger",9,-2.81730498076275,4.89234631179299,0.582741533886615
+"j4g0ZV","knSws2","outcome","genus.CandidatusSoleaferrea.id.11350","Weighted median",9,0.0162466471616863,0.644926730034567,0.979902247196424
+"5XtLwc","knSws2","outcome","genus.Catenibacterium.id.2153","Inverse variance weighted",4,0.362423081050389,0.541573940098473,0.503365785988709
+"5XtLwc","knSws2","outcome","genus.Catenibacterium.id.2153","MR Egger",4,0.519087711817301,6.82330353644247,0.946284008696057
+"5XtLwc","knSws2","outcome","genus.Catenibacterium.id.2153","Weighted median",4,0.210593515306716,0.625907700693685,0.736523275220133
+"tbXTaX","knSws2","outcome","genus.ChristensenellaceaeR.7group.id.11283","Inverse variance weighted",9,-0.0866030222217679,0.828859094106909,0.916784777968965
+"tbXTaX","knSws2","outcome","genus.ChristensenellaceaeR.7group.id.11283","MR Egger",9,-5.6375401277145,2.78808444001883,0.0828839290616028
+"tbXTaX","knSws2","outcome","genus.ChristensenellaceaeR.7group.id.11283","Weighted median",9,0.147711652459404,1.0775503968146,0.890966795051412
+"AN8qjo","knSws2","outcome","genus.Clostridiumsensustricto1.id.1873","Inverse variance weighted",7,-0.0694411926581175,0.698009172135822,0.92075348124966
+"AN8qjo","knSws2","outcome","genus.Clostridiumsensustricto1.id.1873","MR Egger",7,1.35608985732007,1.78923736952366,0.48267392367041
+"AN8qjo","knSws2","outcome","genus.Clostridiumsensustricto1.id.1873","Weighted median",7,0.327033379537937,0.901899106296726,0.716899764186888
+"7aTYpg","knSws2","outcome","genus.Collinsella.id.815","Inverse variance weighted",9,0.643536960991238,0.804500627591888,0.423756559458799
+"7aTYpg","knSws2","outcome","genus.Collinsella.id.815","MR Egger",9,0.0575884249601624,3.1326212682003,0.985845959474521
+"7aTYpg","knSws2","outcome","genus.Collinsella.id.815","Weighted median",9,1.3775096030553,1.11429484452107,0.216378122275224
+"6mIWxZ","knSws2","outcome","genus.Coprobacter.id.949","Inverse variance weighted",11,0.118534224427639,0.459893415985394,0.796605399223339
+"6mIWxZ","knSws2","outcome","genus.Coprobacter.id.949","MR Egger",11,-0.764530548404857,1.82560404696391,0.685192508718773
+"6mIWxZ","knSws2","outcome","genus.Coprobacter.id.949","Weighted median",11,-0.246924209558927,0.590932929365243,0.676053221585606
+"cqFLTQ","knSws2","outcome","genus.Coprococcus1.id.11301","Inverse variance weighted",12,0.351152331740129,0.772947304596553,0.649610708305971
+"cqFLTQ","knSws2","outcome","genus.Coprococcus1.id.11301","MR Egger",12,-0.781669782770674,2.00048869356828,0.704184822497369
+"cqFLTQ","knSws2","outcome","genus.Coprococcus1.id.11301","Weighted median",12,0.79882006850969,0.908079224427291,0.379032128143229
+"2vslhf","knSws2","outcome","genus.Coprococcus2.id.11302","Inverse variance weighted",8,-0.18297972565645,0.714973021778972,0.798008474645935
+"2vslhf","knSws2","outcome","genus.Coprococcus2.id.11302","MR Egger",8,4.33191201842064,5.62219101883266,0.470243244904055
+"2vslhf","knSws2","outcome","genus.Coprococcus2.id.11302","Weighted median",8,-0.164237726849229,0.878546742727627,0.851705714222541
+"8jKldu","knSws2","outcome","genus.Coprococcus3.id.11303","Inverse variance weighted",9,-0.344914375568727,0.809355861097987,0.669991908761599
+"8jKldu","knSws2","outcome","genus.Coprococcus3.id.11303","MR Egger",9,-1.27799980981063,4.52424996658518,0.785747151633381
+"8jKldu","knSws2","outcome","genus.Coprococcus3.id.11303","Weighted median",9,-0.931677271647817,1.15514553956716,0.419928466242979
+"0lsDJy","knSws2","outcome","genus.DefluviitaleaceaeUCG011.id.11287","Inverse variance weighted",9,-0.197871393033746,0.585418669060299,0.735363338526376
+"0lsDJy","knSws2","outcome","genus.DefluviitaleaceaeUCG011.id.11287","MR Egger",9,0.247890217255462,2.21921779252429,0.914195528283219
+"0lsDJy","knSws2","outcome","genus.DefluviitaleaceaeUCG011.id.11287","Weighted median",9,-0.15962415032012,0.821468714330312,0.845928805511476
+"WaNFee","knSws2","outcome","genus.Desulfovibrio.id.3173","Inverse variance weighted",10,0.152560849902128,0.569674540988306,0.788850557623899
+"WaNFee","knSws2","outcome","genus.Desulfovibrio.id.3173","MR Egger",10,-1.82326630831659,1.68060760878586,0.309580388986269
+"WaNFee","knSws2","outcome","genus.Desulfovibrio.id.3173","Weighted median",10,0.137973070348346,0.741825196161474,0.852451543989054
+"xCukIr","knSws2","outcome","genus.Dialister.id.2183","Inverse variance weighted",11,0.136982436622599,0.6097979302683,0.82226262402899
+"xCukIr","knSws2","outcome","genus.Dialister.id.2183","MR Egger",11,4.82715589379927,2.48123642225796,0.0835732056226345
+"xCukIr","knSws2","outcome","genus.Dialister.id.2183","Weighted median",11,0.543291564498766,0.798802647146899,0.496420628526434
+"e5mJnF","knSws2","outcome","genus.Dorea.id.1997","Inverse variance weighted",10,-0.579438627925306,0.786890168248895,0.461508406029256
+"e5mJnF","knSws2","outcome","genus.Dorea.id.1997","MR Egger",10,1.88908008054448,2.20594764735216,0.416711664082169
+"e5mJnF","knSws2","outcome","genus.Dorea.id.1997","Weighted median",10,-0.918538147471461,1.05170222459026,0.382454714778173
+"0aMbT3","knSws2","outcome","genus.Eggerthella.id.819","Inverse variance weighted",10,0.369343479341956,0.435222690660276,0.396086636106098
+"0aMbT3","knSws2","outcome","genus.Eggerthella.id.819","MR Egger",10,-1.58803070432256,2.01048670307963,0.452375849116017
+"0aMbT3","knSws2","outcome","genus.Eggerthella.id.819","Weighted median",10,0.439829767588406,0.555628801620879,0.42860023679894
+"j87dXS","knSws2","outcome","genus.Eisenbergiella.id.11304","Inverse variance weighted",11,0.164758553472821,0.495938779221941,0.739726534461222
+"j87dXS","knSws2","outcome","genus.Eisenbergiella.id.11304","MR Egger",11,1.65852606624349,3.83741899114115,0.675767610167949
+"j87dXS","knSws2","outcome","genus.Eisenbergiella.id.11304","Weighted median",11,-0.697817326652405,0.614131671036354,0.255844990537298
+"jJC3Fm","knSws2","outcome","genus.Enterorhabdus.id.820","Inverse variance weighted",6,-0.913140516935649,0.663027231167061,0.168441371612268
+"jJC3Fm","knSws2","outcome","genus.Enterorhabdus.id.820","MR Egger",6,-2.82918701701192,1.74470622436555,0.180210756850664
+"jJC3Fm","knSws2","outcome","genus.Enterorhabdus.id.820","Weighted median",6,-0.584226182402173,0.864750740344086,0.499294213938275
+"iAhkfC","knSws2","outcome","genus.Erysipelatoclostridium.id.11381","Inverse variance weighted",15,-0.229237308205918,0.505630553633484,0.650282927207422
+"iAhkfC","knSws2","outcome","genus.Erysipelatoclostridium.id.11381","MR Egger",15,-0.051932978428333,2.04706475264078,0.980145547883044
+"iAhkfC","knSws2","outcome","genus.Erysipelatoclostridium.id.11381","Weighted median",15,0.22585137414766,0.643609955758925,0.725653299239929
+"wn5rK2","knSws2","outcome","genus.ErysipelotrichaceaeUCG003.id.11384","Inverse variance weighted",16,0.642335202272599,0.510664226491816,0.208448697288446
+"wn5rK2","knSws2","outcome","genus.ErysipelotrichaceaeUCG003.id.11384","MR Egger",16,2.49039048173106,1.36482928952052,0.0894569307903246
+"wn5rK2","knSws2","outcome","genus.ErysipelotrichaceaeUCG003.id.11384","Weighted median",16,0.410233726905973,0.694862228151204,0.554934985520474
+"1uqUdL","knSws2","outcome","genus.Escherichia.Shigella.id.3504","Inverse variance weighted",10,1.33265489799936,0.676432677947121,0.0488243905129879
+"1uqUdL","knSws2","outcome","genus.Escherichia.Shigella.id.3504","MR Egger",10,-0.166493370597286,2.11496951486748,0.939187672520186
+"1uqUdL","knSws2","outcome","genus.Escherichia.Shigella.id.3504","Weighted median",10,0.621450198815483,0.89371828313501,0.486833750086016
+"aKuChq","knSws2","outcome","genus.Faecalibacterium.id.2057","Inverse variance weighted",10,-0.172722909794615,0.589454441254362,0.769505607467293
+"aKuChq","knSws2","outcome","genus.Faecalibacterium.id.2057","MR Egger",10,-0.171950856881258,1.15138054181909,0.884979062720042
+"aKuChq","knSws2","outcome","genus.Faecalibacterium.id.2057","Weighted median",10,-0.177039563549541,0.800004235518188,0.824860186970463
+"NqdTjG","knSws2","outcome","genus.FamilyXIIIAD3011group.id.11293","Inverse variance weighted",13,0.067122392270292,0.608617758594559,0.912182072390494
+"NqdTjG","knSws2","outcome","genus.FamilyXIIIAD3011group.id.11293","MR Egger",13,1.8058986043081,2.88630864706302,0.544289351812619
+"NqdTjG","knSws2","outcome","genus.FamilyXIIIAD3011group.id.11293","Weighted median",13,0.580038305124278,0.788141858500793,0.461757031008924
+"1rpkuI","knSws2","outcome","genus.FamilyXIIIUCG001.id.11294","Inverse variance weighted",8,0.926350061962953,0.729547625261957,0.204170294532785
+"1rpkuI","knSws2","outcome","genus.FamilyXIIIUCG001.id.11294","MR Egger",8,0.602799744094085,2.4518610322489,0.813989411070585
+"1rpkuI","knSws2","outcome","genus.FamilyXIIIUCG001.id.11294","Weighted median",8,0.105676128147296,0.978404464177641,0.913988844576663
+"0ngO8p","knSws2","outcome","genus.Flavonifractor.id.2059","Inverse variance weighted",5,0.528822542447031,1.03333550428123,0.60881711545089
+"0ngO8p","knSws2","outcome","genus.Flavonifractor.id.2059","MR Egger",5,-4.82609984924499,3.53202705656859,0.265221324336403
+"0ngO8p","knSws2","outcome","genus.Flavonifractor.id.2059","Weighted median",5,-0.123028381845237,1.20520535674668,0.918692504640886
+"ygbSF7","knSws2","outcome","genus.Fusicatenibacter.id.11305","Inverse variance weighted",18,0.507259069332777,0.582207678242756,0.383607698019667
+"ygbSF7","knSws2","outcome","genus.Fusicatenibacter.id.11305","MR Egger",18,1.25836283965437,2.23525177100099,0.581264151069969
+"ygbSF7","knSws2","outcome","genus.Fusicatenibacter.id.11305","Weighted median",18,0.490058554157939,0.791641760392803,0.535889476599109
+"YYHfMs","knSws2","outcome","genus.Gordonibacter.id.821","Inverse variance weighted",11,0.155508230181317,0.378473383877746,0.681158423787124
+"YYHfMs","knSws2","outcome","genus.Gordonibacter.id.821","MR Egger",11,-0.295963235208019,1.68148125484187,0.864180173324656
+"YYHfMs","knSws2","outcome","genus.Gordonibacter.id.821","Weighted median",11,-0.035498885449685,0.458976860173194,0.938350271510916
+"QGrGNV","knSws2","outcome","genus.Haemophilus.id.3698","Inverse variance weighted",9,-0.870016808040972,0.50886847968196,0.0873197745446424
+"QGrGNV","knSws2","outcome","genus.Haemophilus.id.3698","MR Egger",9,-1.2461921418903,1.14476598116633,0.312383478210315
+"QGrGNV","knSws2","outcome","genus.Haemophilus.id.3698","Weighted median",9,-0.826259163590173,0.706640577450979,0.242291710917066
+"20HL0T","knSws2","outcome","genus.Holdemanella.id.11393","Inverse variance weighted",11,0.197258112083708,0.43588302755099,0.650874052214972
+"20HL0T","knSws2","outcome","genus.Holdemanella.id.11393","MR Egger",11,1.18114769209924,1.24312041928468,0.366853015490117
+"20HL0T","knSws2","outcome","genus.Holdemanella.id.11393","Weighted median",11,0.235046421278268,0.57331699071854,0.68182327844909
+"XVFzMF","knSws2","outcome","genus.Holdemania.id.2157","Inverse variance weighted",15,-0.0367057907074836,0.451836664036368,0.935253588290288
+"XVFzMF","knSws2","outcome","genus.Holdemania.id.2157","MR Egger",15,0.507997729926221,1.38871125524421,0.720394069600817
+"XVFzMF","knSws2","outcome","genus.Holdemania.id.2157","Weighted median",15,0.118664050003584,0.604141279879169,0.844283231398927
+"sF7W2L","knSws2","outcome","genus.Howardella.id.2000","Inverse variance weighted",10,0.312168695455269,0.33487116552015,0.351230405893596
+"sF7W2L","knSws2","outcome","genus.Howardella.id.2000","MR Egger",10,0.151329506371908,1.3711027772628,0.91483403460009
+"sF7W2L","knSws2","outcome","genus.Howardella.id.2000","Weighted median",10,0.0420675324773107,0.440811705627657,0.923971718139132
+"0Vfsi1","knSws2","outcome","genus.Hungatella.id.11306","Inverse variance weighted",5,-0.206715866593144,0.673597936461694,0.758932303670775
+"0Vfsi1","knSws2","outcome","genus.Hungatella.id.11306","MR Egger",5,1.82407898954898,4.57632430847853,0.71686940802998
+"0Vfsi1","knSws2","outcome","genus.Hungatella.id.11306","Weighted median",5,-0.90028216441956,0.693409123060913,0.194169851522455
+"Q46NVk","knSws2","outcome","genus.Intestinibacter.id.11345","Inverse variance weighted",15,-0.00646808237611108,0.593980081112682,0.991311693374062
+"Q46NVk","knSws2","outcome","genus.Intestinibacter.id.11345","MR Egger",15,2.7536977701757,1.82960074483693,0.156207823489484
+"Q46NVk","knSws2","outcome","genus.Intestinibacter.id.11345","Weighted median",15,-0.051924327438525,0.727113119293551,0.943070159974981
+"XTu0EY","knSws2","outcome","genus.Intestinimonas.id.2062","Inverse variance weighted",16,0.681064122940904,0.492363983840269,0.166587200965338
+"XTu0EY","knSws2","outcome","genus.Intestinimonas.id.2062","MR Egger",16,0.793355436435736,1.36913276465672,0.571487158381933
+"XTu0EY","knSws2","outcome","genus.Intestinimonas.id.2062","Weighted median",16,0.893404069896703,0.682648785403411,0.190625267415508
+"MpL626","knSws2","outcome","genus.Lachnoclostridium.id.11308","Inverse variance weighted",13,0.29988849658746,0.664804511990675,0.651922701601761
+"MpL626","knSws2","outcome","genus.Lachnoclostridium.id.11308","MR Egger",13,0.702378226986621,2.26064789667391,0.761838406929738
+"MpL626","knSws2","outcome","genus.Lachnoclostridium.id.11308","Weighted median",13,0.138829104793902,0.852462133016411,0.870631324078546
+"0rTnk2","knSws2","outcome","genus.Lachnospira.id.2004","Inverse variance weighted",6,-1.01339702685984,1.0311080955211,0.32569442857905
+"0rTnk2","knSws2","outcome","genus.Lachnospira.id.2004","MR Egger",6,-0.687167682117555,6.44805391369556,0.920261216851983
+"0rTnk2","knSws2","outcome","genus.Lachnospira.id.2004","Weighted median",6,-1.39846506960906,1.36306648631256,0.304905812751566
+"QjakFr","knSws2","outcome","genus.LachnospiraceaeFCS020group.id.11314","Inverse variance weighted",12,1.03851375475989,0.586624421651511,0.0766736186838051
+"QjakFr","knSws2","outcome","genus.LachnospiraceaeFCS020group.id.11314","MR Egger",12,0.28308626186358,1.56939917485272,0.860458282962409
+"QjakFr","knSws2","outcome","genus.LachnospiraceaeFCS020group.id.11314","Weighted median",12,1.11663218948371,0.778808987256467,0.151638191764071
+"TUj4LC","knSws2","outcome","genus.LachnospiraceaeNC2004group.id.11316","Inverse variance weighted",9,0.153856456982294,0.482543824718677,0.749844412283699
+"TUj4LC","knSws2","outcome","genus.LachnospiraceaeNC2004group.id.11316","MR Egger",9,-2.06492168680813,1.95838739248987,0.326728187656366
+"TUj4LC","knSws2","outcome","genus.LachnospiraceaeNC2004group.id.11316","Weighted median",9,0.031030463529309,0.627827276314878,0.960580477950065
+"y0FJ9U","knSws2","outcome","genus.LachnospiraceaeND3007group.id.11317","Inverse variance weighted",3,1.99749542827448,1.37771065858803,0.14709597394376
+"y0FJ9U","knSws2","outcome","genus.LachnospiraceaeND3007group.id.11317","MR Egger",3,25.3762041711853,23.3046548525994,0.472925825097636
+"y0FJ9U","knSws2","outcome","genus.LachnospiraceaeND3007group.id.11317","Weighted median",3,1.40113858810988,1.72815607049393,0.417497270163523
+"Bt0kEx","knSws2","outcome","genus.LachnospiraceaeNK4A136group.id.11319","Inverse variance weighted",15,0.360641477696998,0.522913849194485,0.490397545831173
+"Bt0kEx","knSws2","outcome","genus.LachnospiraceaeNK4A136group.id.11319","MR Egger",15,0.427545259154088,1.04104204270969,0.687988864514335
+"Bt0kEx","knSws2","outcome","genus.LachnospiraceaeNK4A136group.id.11319","Weighted median",15,1.19918067901053,0.78556085220894,0.126878409276569
+"wIF1Yn","knSws2","outcome","genus.LachnospiraceaeUCG001.id.11321","Inverse variance weighted",13,-0.351297642521537,0.48722698495868,0.470900692562209
+"wIF1Yn","knSws2","outcome","genus.LachnospiraceaeUCG001.id.11321","MR Egger",13,-0.614300030076133,2.11780217072257,0.77716157729634
+"wIF1Yn","knSws2","outcome","genus.LachnospiraceaeUCG001.id.11321","Weighted median",13,-0.0273311142845687,0.659680203511344,0.966952415867979
+"TQSpiB","knSws2","outcome","genus.LachnospiraceaeUCG004.id.11324","Inverse variance weighted",12,1.17446312982561,0.71713271197795,0.101479958006284
+"TQSpiB","knSws2","outcome","genus.LachnospiraceaeUCG004.id.11324","MR Egger",12,0.574943505133252,3.15587349036275,0.859080020519341
+"TQSpiB","knSws2","outcome","genus.LachnospiraceaeUCG004.id.11324","Weighted median",12,0.776625139334824,0.957862123730418,0.417486213391102
+"PGlGHi","knSws2","outcome","genus.LachnospiraceaeUCG008.id.11328","Inverse variance weighted",10,-0.653597794442617,0.462319483619007,0.157439369448719
+"PGlGHi","knSws2","outcome","genus.LachnospiraceaeUCG008.id.11328","MR Egger",10,-2.99117780557479,2.34256840034564,0.23745780501944
+"PGlGHi","knSws2","outcome","genus.LachnospiraceaeUCG008.id.11328","Weighted median",10,-0.855732396903939,0.59260764691867,0.14873567415953
+"AK0l7A","knSws2","outcome","genus.LachnospiraceaeUCG010.id.11330","Inverse variance weighted",10,-0.129379860739119,0.693630041762666,0.852032491016336
+"AK0l7A","knSws2","outcome","genus.LachnospiraceaeUCG010.id.11330","MR Egger",10,-0.168966056365383,2.24039360114783,0.941733981355163
+"AK0l7A","knSws2","outcome","genus.LachnospiraceaeUCG010.id.11330","Weighted median",10,-0.104525370280946,0.933656439315592,0.910860901281635
+"q1bO5E","knSws2","outcome","genus.Lactobacillus.id.1837","Inverse variance weighted",8,-0.679485977694368,0.471179703199466,0.149275525351621
+"q1bO5E","knSws2","outcome","genus.Lactobacillus.id.1837","MR Egger",8,-1.16113887554664,1.21193502757824,0.375016383058315
+"q1bO5E","knSws2","outcome","genus.Lactobacillus.id.1837","Weighted median",8,-0.586818045017902,0.638406720476437,0.357995404823684
+"0heWA4","knSws2","outcome","genus.Lactococcus.id.1851","Inverse variance weighted",9,-0.481719590437967,0.401369873716813,0.230066059554417
+"0heWA4","knSws2","outcome","genus.Lactococcus.id.1851","MR Egger",9,-0.633170289901403,1.79448211034754,0.734592048483063
+"0heWA4","knSws2","outcome","genus.Lactococcus.id.1851","Weighted median",9,-0.254056564169276,0.491992579554705,0.605586993535464
+"wFbL6J","knSws2","outcome","genus.Marvinbryantia.id.2005","Inverse variance weighted",10,-1.37041650491822,0.658322658715994,0.0373717929592644
+"wFbL6J","knSws2","outcome","genus.Marvinbryantia.id.2005","MR Egger",10,-0.987532019339314,2.5909190731363,0.713014014816508
+"wFbL6J","knSws2","outcome","genus.Marvinbryantia.id.2005","Weighted median",10,-1.43591544368982,0.823369282544967,0.08116768529931
+"Q3dvBY","knSws2","outcome","genus.Methanobrevibacter.id.123","Inverse variance weighted",6,-0.373009691458626,0.49084171147423,0.447291130867221
+"Q3dvBY","knSws2","outcome","genus.Methanobrevibacter.id.123","MR Egger",6,1.39684119742038,1.85881102166717,0.494166320469753
+"Q3dvBY","knSws2","outcome","genus.Methanobrevibacter.id.123","Weighted median",6,-0.546138435538075,0.636794744341061,0.391093196571231
+"wQYhwp","knSws2","outcome","genus.Odoribacter.id.952","Inverse variance weighted",7,-0.527330519957266,1.00793232137881,0.600848661030908
+"wQYhwp","knSws2","outcome","genus.Odoribacter.id.952","MR Egger",7,1.66538823324748,3.27345169743827,0.632570771732196
+"wQYhwp","knSws2","outcome","genus.Odoribacter.id.952","Weighted median",7,-0.40986533072945,1.13581066668235,0.718206283250627
+"W49loY","knSws2","outcome","genus.Olsenella.id.822","Inverse variance weighted",11,0.490965077927446,0.332850072027304,0.140203479674923
+"W49loY","knSws2","outcome","genus.Olsenella.id.822","MR Egger",11,1.28236039394474,1.10681597347067,0.276435822493202
+"W49loY","knSws2","outcome","genus.Olsenella.id.822","Weighted median",11,0.506538143918739,0.4561480432125,0.266797090256889
+"5TN0Z7","knSws2","outcome","genus.Oscillibacter.id.2063","Inverse variance weighted",13,0.918079981628312,0.55056137778011,0.0954082099798415
+"5TN0Z7","knSws2","outcome","genus.Oscillibacter.id.2063","MR Egger",13,2.02414039802927,2.1500942395683,0.3667053629485
+"5TN0Z7","knSws2","outcome","genus.Oscillibacter.id.2063","Weighted median",13,0.662160980521493,0.694813226619808,0.340587171669
+"zaZf8A","knSws2","outcome","genus.Oscillospira.id.2064","Inverse variance weighted",8,-0.696506116771559,0.641947437109232,0.277926383082895
+"zaZf8A","knSws2","outcome","genus.Oscillospira.id.2064","MR Egger",8,2.22356077391588,2.7214823400258,0.445127778732086
+"zaZf8A","knSws2","outcome","genus.Oscillospira.id.2064","Weighted median",8,-0.789861662412443,0.803904424459975,0.325837923833565
+"E1ZDX3","knSws2","outcome","genus.Oxalobacter.id.2978","Inverse variance weighted",11,-0.128785513252311,0.454315603929184,0.776815446789431
+"E1ZDX3","knSws2","outcome","genus.Oxalobacter.id.2978","MR Egger",11,-0.504092023960292,2.23931707259527,0.826922103320948
+"E1ZDX3","knSws2","outcome","genus.Oxalobacter.id.2978","Weighted median",11,-0.258770090849357,0.552627125945607,0.639602663936082
+"uQYGEB","knSws2","outcome","genus.Parabacteroides.id.954","Inverse variance weighted",5,-0.465323883605812,1.13219506541434,0.68107790258584
+"uQYGEB","knSws2","outcome","genus.Parabacteroides.id.954","MR Egger",5,-9.44057148176607,6.30644192742842,0.231311776448577
+"uQYGEB","knSws2","outcome","genus.Parabacteroides.id.954","Weighted median",5,-1.861031845965,1.36520709966118,0.172823750494761
+"8NULRM","knSws2","outcome","genus.Paraprevotella.id.962","Inverse variance weighted",13,-0.427695552993867,0.429150413843723,0.318953896452875
+"8NULRM","knSws2","outcome","genus.Paraprevotella.id.962","MR Egger",13,1.70333740111504,1.55364399442419,0.296347571492112
+"8NULRM","knSws2","outcome","genus.Paraprevotella.id.962","Weighted median",13,-0.36969523669231,0.556499887712494,0.506484107266108
+"acLMuF","knSws2","outcome","genus.Parasutterella.id.2892","Inverse variance weighted",14,-0.676127249522658,0.479527918688141,0.158544064637629
+"acLMuF","knSws2","outcome","genus.Parasutterella.id.2892","MR Egger",14,0.433282087716447,1.34858446085871,0.75352015934538
+"acLMuF","knSws2","outcome","genus.Parasutterella.id.2892","Weighted median",14,0.0230837895729689,0.660917141040417,0.972138027364147
+"nIesEv","knSws2","outcome","genus.Peptococcus.id.2037","Inverse variance weighted",12,0.422971238479497,0.381964702857067,0.268139664686363
+"nIesEv","knSws2","outcome","genus.Peptococcus.id.2037","MR Egger",12,-0.190918423528187,1.46254602379076,0.898729137352381
+"nIesEv","knSws2","outcome","genus.Peptococcus.id.2037","Weighted median",12,0.336408835912987,0.488003134884905,0.490598044578143
+"pCXx5P","knSws2","outcome","genus.Phascolarctobacterium.id.2168","Inverse variance weighted",9,0.212967672894736,0.651843461302304,0.743882715432796
+"pCXx5P","knSws2","outcome","genus.Phascolarctobacterium.id.2168","MR Egger",9,-2.62117117917544,3.05332255060747,0.419057392678371
+"pCXx5P","knSws2","outcome","genus.Phascolarctobacterium.id.2168","Weighted median",9,0.328989859031689,0.914618595363416,0.719070224344827
+"LCZ8yH","knSws2","outcome","genus.Prevotella7.id.11182","Inverse variance weighted",11,0.0700772450662749,0.341239123378178,0.837290002620827
+"LCZ8yH","knSws2","outcome","genus.Prevotella7.id.11182","MR Egger",11,-3.39980346353584,1.96704857620952,0.117985002993908
+"LCZ8yH","knSws2","outcome","genus.Prevotella7.id.11182","Weighted median",11,0.277328475130801,0.439007875817825,0.527572209269755
+"I5XXsr","knSws2","outcome","genus.Prevotella9.id.11183","Inverse variance weighted",15,0.0997610280676389,0.52261194444427,0.848612323660577
+"I5XXsr","knSws2","outcome","genus.Prevotella9.id.11183","MR Egger",15,1.07395292760084,1.54835192698832,0.5001328726391
+"I5XXsr","knSws2","outcome","genus.Prevotella9.id.11183","Weighted median",15,-0.00214945252979579,0.644732429596664,0.997339963476307
+"hUph1f","knSws2","outcome","genus.RikenellaceaeRC9gutgroup.id.11191","Inverse variance weighted",11,-0.0968438564579315,0.434741626873341,0.82372084800871
+"hUph1f","knSws2","outcome","genus.RikenellaceaeRC9gutgroup.id.11191","MR Egger",11,1.88518990807405,2.78183548836314,0.515017437719655
+"hUph1f","knSws2","outcome","genus.RikenellaceaeRC9gutgroup.id.11191","Weighted median",11,-0.0906687939704823,0.491892274437521,0.853757305929342
+"w5yhuV","knSws2","outcome","genus.Romboutsia.id.11347","Inverse variance weighted",13,-0.639541893197379,0.69559213144835,0.357875499467005
+"w5yhuV","knSws2","outcome","genus.Romboutsia.id.11347","MR Egger",13,-2.86003702036012,1.97767272918747,0.176016538943499
+"w5yhuV","knSws2","outcome","genus.Romboutsia.id.11347","Weighted median",13,-0.921139644746653,0.87291377970479,0.291312375068937
+"B5jn0Y","knSws2","outcome","genus.Roseburia.id.2012","Inverse variance weighted",14,0.172247649742338,0.751551441723775,0.818721684286994
+"B5jn0Y","knSws2","outcome","genus.Roseburia.id.2012","MR Egger",14,0.2056700194342,2.39167218844594,0.932889183236221
+"B5jn0Y","knSws2","outcome","genus.Roseburia.id.2012","Weighted median",14,-0.337248517630765,0.922901312569863,0.71479636143868
+"iMGTCD","knSws2","outcome","genus.Ruminiclostridium5.id.11355","Inverse variance weighted",11,-0.531865058085715,0.724316894086638,0.46276662224277
+"iMGTCD","knSws2","outcome","genus.Ruminiclostridium5.id.11355","MR Egger",11,1.96981377721827,3.02178126210036,0.53077675137567
+"iMGTCD","knSws2","outcome","genus.Ruminiclostridium5.id.11355","Weighted median",11,-0.483169998606943,0.9681308238358,0.617726470486527
+"iwPbIH","knSws2","outcome","genus.Ruminiclostridium6.id.11356","Inverse variance weighted",16,0.734860237081276,0.590187634833858,0.213084025916888
+"iwPbIH","knSws2","outcome","genus.Ruminiclostridium6.id.11356","MR Egger",16,0.435375568189649,1.56216155718336,0.784548851427182
+"iwPbIH","knSws2","outcome","genus.Ruminiclostridium6.id.11356","Weighted median",16,0.965074784525308,0.76507484229178,0.207160354105151
+"RmoHnu","knSws2","outcome","genus.Ruminiclostridium9.id.11357","Inverse variance weighted",9,0.896167151370722,0.87046732235086,0.303233425956003
+"RmoHnu","knSws2","outcome","genus.Ruminiclostridium9.id.11357","MR Egger",9,6.81924205622607,3.77716676788684,0.113982354355227
+"RmoHnu","knSws2","outcome","genus.Ruminiclostridium9.id.11357","Weighted median",9,0.426209518625673,1.1328593416473,0.706749950811038
+"ASQ2fp","knSws2","outcome","genus.RuminococcaceaeNK4A214group.id.11358","Inverse variance weighted",13,0.0735300078455691,0.615853805060271,0.904962238701587
+"ASQ2fp","knSws2","outcome","genus.RuminococcaceaeNK4A214group.id.11358","MR Egger",13,-2.15835665538742,2.03323318498289,0.311195816262652
+"ASQ2fp","knSws2","outcome","genus.RuminococcaceaeNK4A214group.id.11358","Weighted median",13,0.623034834216047,0.824535191581624,0.449877386508228
+"OhSZ6N","knSws2","outcome","genus.RuminococcaceaeUCG002.id.11360","Inverse variance weighted",21,0.353412098482182,0.473721406733766,0.455647102891993
+"OhSZ6N","knSws2","outcome","genus.RuminococcaceaeUCG002.id.11360","MR Egger",21,-0.12935368014437,1.24451384367237,0.918306974113194
+"OhSZ6N","knSws2","outcome","genus.RuminococcaceaeUCG002.id.11360","Weighted median",21,0.378422373176818,0.66222177321819,0.567699002838046
+"lJcL8y","knSws2","outcome","genus.RuminococcaceaeUCG003.id.11361","Inverse variance weighted",12,0.133937840543208,0.596628840032425,0.822375222738706
+"lJcL8y","knSws2","outcome","genus.RuminococcaceaeUCG003.id.11361","MR Egger",12,-1.23985435744994,1.96099584783825,0.54140372613064
+"lJcL8y","knSws2","outcome","genus.RuminococcaceaeUCG003.id.11361","Weighted median",12,0.223994253291144,0.821309627844865,0.785062196093376
+"TlODZI","knSws2","outcome","genus.RuminococcaceaeUCG004.id.11362","Inverse variance weighted",11,-0.0290822934382073,0.53790218100304,0.95688247089511
+"TlODZI","knSws2","outcome","genus.RuminococcaceaeUCG004.id.11362","MR Egger",11,1.94279405798066,2.96915246793956,0.529265633225759
+"TlODZI","knSws2","outcome","genus.RuminococcaceaeUCG004.id.11362","Weighted median",11,0.09084850781189,0.722789530807524,0.899976122306985
+"yerlNC","knSws2","outcome","genus.RuminococcaceaeUCG005.id.11363","Inverse variance weighted",14,-0.285009642804497,0.854643156078483,0.738769120018393
+"yerlNC","knSws2","outcome","genus.RuminococcaceaeUCG005.id.11363","MR Egger",14,-1.7234104240877,2.35417213093213,0.478182585655644
+"yerlNC","knSws2","outcome","genus.RuminococcaceaeUCG005.id.11363","Weighted median",14,-0.668323701697029,0.913057906985435,0.46419175517094
+"9s731W","knSws2","outcome","genus.RuminococcaceaeUCG009.id.11366","Inverse variance weighted",11,0.00347419493294958,0.521748434012306,0.994687121545597
+"9s731W","knSws2","outcome","genus.RuminococcaceaeUCG009.id.11366","MR Egger",11,1.30364267484512,2.05420906115797,0.54147025547355
+"9s731W","knSws2","outcome","genus.RuminococcaceaeUCG009.id.11366","Weighted median",11,0.438180967856549,0.64193474380109,0.494863265659696
+"kjA5PB","knSws2","outcome","genus.RuminococcaceaeUCG010.id.11367","Inverse variance weighted",6,-0.046762292162111,1.01715566688827,0.963331304030265
+"kjA5PB","knSws2","outcome","genus.RuminococcaceaeUCG010.id.11367","MR Egger",6,-1.50415044752735,3.01750176121514,0.644313033723663
+"kjA5PB","knSws2","outcome","genus.RuminococcaceaeUCG010.id.11367","Weighted median",6,-0.784925753793998,1.07478396830193,0.465200561309654
+"R7oLoV","knSws2","outcome","genus.RuminococcaceaeUCG011.id.11368","Inverse variance weighted",8,-0.134516742937558,0.378498188432784,0.722292943567416
+"R7oLoV","knSws2","outcome","genus.RuminococcaceaeUCG011.id.11368","MR Egger",8,0.194506584929676,1.88362998395305,0.92112031993436
+"R7oLoV","knSws2","outcome","genus.RuminococcaceaeUCG011.id.11368","Weighted median",8,-0.239341999508029,0.495147832300285,0.628829616173707
+"BLC7wV","knSws2","outcome","genus.RuminococcaceaeUCG013.id.11370","Inverse variance weighted",11,-1.2203398204149,0.672518592300315,0.0695882420551409
+"BLC7wV","knSws2","outcome","genus.RuminococcaceaeUCG013.id.11370","MR Egger",11,-2.73147118231504,1.93776783752809,0.192264718073827
+"BLC7wV","knSws2","outcome","genus.RuminococcaceaeUCG013.id.11370","Weighted median",11,-1.37407547324429,0.861515479654478,0.110723064496291
+"5IXuob","knSws2","outcome","genus.RuminococcaceaeUCG014.id.11371","Inverse variance weighted",11,-0.895450420628758,0.586149152754131,0.126591125423244
+"5IXuob","knSws2","outcome","genus.RuminococcaceaeUCG014.id.11371","MR Egger",11,-0.617501124664523,1.38086172257554,0.665309306148852
+"5IXuob","knSws2","outcome","genus.RuminococcaceaeUCG014.id.11371","Weighted median",11,-0.867149011497044,0.806337917252489,0.282188347348608
+"ebP4zV","knSws2","outcome","genus.Ruminococcus1.id.11373","Inverse variance weighted",10,0.0530272397012353,0.811426207390129,0.947894806189509
+"ebP4zV","knSws2","outcome","genus.Ruminococcus1.id.11373","MR Egger",10,-0.346315541520616,2.29508334428995,0.883794354395462
+"ebP4zV","knSws2","outcome","genus.Ruminococcus1.id.11373","Weighted median",10,0.828381002233481,0.960095455480367,0.38824134312709
+"2GJP3o","knSws2","outcome","genus.Ruminococcus2.id.11374","Inverse variance weighted",15,-0.685723622201,0.537934687830716,0.202403417576391
+"2GJP3o","knSws2","outcome","genus.Ruminococcus2.id.11374","MR Egger",15,-2.63951613571794,1.24785554273403,0.0542883426235214
+"2GJP3o","knSws2","outcome","genus.Ruminococcus2.id.11374","Weighted median",15,-1.20751172006423,0.706230594754878,0.0873032168514084
+"c62fwk","knSws2","outcome","genus.Sellimonas.id.14369","Inverse variance weighted",9,-0.44649570127755,0.554959431787655,0.421076190484323
+"c62fwk","knSws2","outcome","genus.Sellimonas.id.14369","MR Egger",9,-3.2192905921404,3.34928796543529,0.36847609446243
+"c62fwk","knSws2","outcome","genus.Sellimonas.id.14369","Weighted median",9,-0.843465905414651,0.516984922896186,0.102782819290098
+"yLt27i","knSws2","outcome","genus.Senegalimassilia.id.11160","Inverse variance weighted",5,0.104153509544125,0.744167706844099,0.888691809835487
+"yLt27i","knSws2","outcome","genus.Senegalimassilia.id.11160","MR Egger",5,3.18112163386837,2.8422200770684,0.344573915064095
+"yLt27i","knSws2","outcome","genus.Senegalimassilia.id.11160","Weighted median",5,0.398444231229014,0.965040902261357,0.679695944433245
+"tkl5vG","knSws2","outcome","genus.Slackia.id.825","Inverse variance weighted",6,0.288964090502944,0.838253922170152,0.730303805984435
+"tkl5vG","knSws2","outcome","genus.Slackia.id.825","MR Egger",6,-1.26434012046666,6.03846355871228,0.844382138501766
+"tkl5vG","knSws2","outcome","genus.Slackia.id.825","Weighted median",6,0.408890182358639,0.855181924199082,0.63255597568197
+"5qEcKL","knSws2","outcome","genus.Streptococcus.id.1853","Inverse variance weighted",15,-0.519879690036109,0.632311473186087,0.410969201307372
+"5qEcKL","knSws2","outcome","genus.Streptococcus.id.1853","MR Egger",15,-1.93331717031701,2.37187848291821,0.429695923594188
+"5qEcKL","knSws2","outcome","genus.Streptococcus.id.1853","Weighted median",15,-0.895485525880929,0.887484577793391,0.312967292050757
+"3tgfXE","knSws2","outcome","genus.Subdoligranulum.id.2070","Inverse variance weighted",11,0.376454052956662,0.668456765929521,0.573319886810985
+"3tgfXE","knSws2","outcome","genus.Subdoligranulum.id.2070","MR Egger",11,-0.917259670493211,1.72069515923447,0.606891969356365
+"3tgfXE","knSws2","outcome","genus.Subdoligranulum.id.2070","Weighted median",11,-0.621808306553797,0.921926379262087,0.500014881448052
+"BiKMtW","knSws2","outcome","genus.Sutterella.id.2896","Inverse variance weighted",12,0.292528725672838,1.06650678111606,0.783864232428093
+"BiKMtW","knSws2","outcome","genus.Sutterella.id.2896","MR Egger",12,-2.93404912357483,4.77156321527412,0.552352999387789
+"BiKMtW","knSws2","outcome","genus.Sutterella.id.2896","Weighted median",12,0.3763033132982,1.04184838208903,0.717958783074333
+"LKYg6S","knSws2","outcome","genus.Terrisporobacter.id.11348","Inverse variance weighted",5,0.544005606775507,0.949211438833065,0.566568049108595
+"LKYg6S","knSws2","outcome","genus.Terrisporobacter.id.11348","MR Egger",5,2.65182597946752,3.05412505918818,0.449126741538182
+"LKYg6S","knSws2","outcome","genus.Terrisporobacter.id.11348","Weighted median",5,0.305191096333571,0.896477850203671,0.733530090818678
+"AdsBD9","knSws2","outcome","genus.Turicibacter.id.2162","Inverse variance weighted",10,-1.05645743642426,0.527981053885236,0.045399054979996
+"AdsBD9","knSws2","outcome","genus.Turicibacter.id.2162","MR Egger",10,0.902041531265662,2.3018695058487,0.705383974551485
+"AdsBD9","knSws2","outcome","genus.Turicibacter.id.2162","Weighted median",10,-0.959218132980642,0.70720876276702,0.174989845036585
+"I2CEyx","knSws2","outcome","genus.Tyzzerella3.id.11335","Inverse variance weighted",13,0.508016104500838,0.390841924000889,0.193669725786149
+"I2CEyx","knSws2","outcome","genus.Tyzzerella3.id.11335","MR Egger",13,1.58950452807131,2.34743170053616,0.512315481185162
+"I2CEyx","knSws2","outcome","genus.Tyzzerella3.id.11335","Weighted median",13,0.328022458075683,0.543915483865007,0.546458029145085
+"wJFco0","knSws2","outcome","genus.Veillonella.id.2198","Inverse variance weighted",6,-0.76269239079287,1.05888111200871,0.47135174221274
+"wJFco0","knSws2","outcome","genus.Veillonella.id.2198","MR Egger",6,1.46819220986079,9.34117455390209,0.882722082182351
+"wJFco0","knSws2","outcome","genus.Veillonella.id.2198","Weighted median",6,-0.481253670096186,1.01214263038578,0.634444820299772
+"qENAoR","knSws2","outcome","genus.Victivallis.id.2256","Inverse variance weighted",10,-0.159778566753128,0.351898215697602,0.649794512854399
+"qENAoR","knSws2","outcome","genus.Victivallis.id.2256","MR Egger",10,1.70878144169415,2.66992302020687,0.540057513884811
+"qENAoR","knSws2","outcome","genus.Victivallis.id.2256","Weighted median",10,-0.0284398541381958,0.432479762812552,0.94756893037818
+"CYNr8c","knSws2","outcome","order.Actinomycetales.id.420","Inverse variance weighted",4,1.31150339455701,0.738366559345076,0.0756962291341831
+"CYNr8c","knSws2","outcome","order.Actinomycetales.id.420","MR Egger",4,2.39300431809865,1.6076591390295,0.275033735647142
+"CYNr8c","knSws2","outcome","order.Actinomycetales.id.420","Weighted median",4,1.77116263468509,0.919377957720688,0.0540445499946354
+"uCOF7P","knSws2","outcome","order.Bacillales.id.1674","Inverse variance weighted",8,-0.0115503683269156,0.366799805492661,0.974879109573436
+"uCOF7P","knSws2","outcome","order.Bacillales.id.1674","MR Egger",8,0.0933764149387152,1.47556428660339,0.951597620997965
+"uCOF7P","knSws2","outcome","order.Bacillales.id.1674","Weighted median",8,-0.0714989367340915,0.455730877739152,0.875332718236552
+"tSliO9","knSws2","outcome","order.Bacteroidales.id.913","Inverse variance weighted",12,0.28084745596994,0.706867244578105,0.691136755506037
+"tSliO9","knSws2","outcome","order.Bacteroidales.id.913","MR Egger",12,-2.42650331102188,1.63047842990431,0.16753499236859
+"tSliO9","knSws2","outcome","order.Bacteroidales.id.913","Weighted median",12,-0.215337020226114,0.952718172105567,0.821182878000543
+"aGfu8V","knSws2","outcome","order.Bifidobacteriales.id.432","Inverse variance weighted",11,-0.171175564159461,0.612669482293318,0.779943243110631
+"aGfu8V","knSws2","outcome","order.Bifidobacteriales.id.432","MR Egger",11,-3.33188937178261,1.94072337411271,0.120141181023063
+"aGfu8V","knSws2","outcome","order.Bifidobacteriales.id.432","Weighted median",11,-0.811600920025623,0.836694354963061,0.3320420861982
+"sFxDb3","knSws2","outcome","order.Burkholderiales.id.2874","Inverse variance weighted",10,1.19100051232321,0.803269766492677,0.13815663975578
+"sFxDb3","knSws2","outcome","order.Burkholderiales.id.2874","MR Egger",10,-3.42278439808878,2.28480392006507,0.17249456504922
+"sFxDb3","knSws2","outcome","order.Burkholderiales.id.2874","Weighted median",10,0.25095177252047,0.966629172040032,0.795160493284625
+"Oxkiqb","knSws2","outcome","order.Clostridiales.id.1863","Inverse variance weighted",12,-0.61120317017628,0.69871286781552,0.381706763116215
+"Oxkiqb","knSws2","outcome","order.Clostridiales.id.1863","MR Egger",12,0.0169104058838329,3.02340772946869,0.99564733336916
+"Oxkiqb","knSws2","outcome","order.Clostridiales.id.1863","Weighted median",12,0.0169942912929226,0.912595715779578,0.98514271022047
+"oGD8An","knSws2","outcome","order.Coriobacteriales.id.810","Inverse variance weighted",14,-0.498467011287547,0.653098396862123,0.445323755273103
+"oGD8An","knSws2","outcome","order.Coriobacteriales.id.810","MR Egger",14,-3.8920100241593,2.67853255573411,0.171858497123383
+"oGD8An","knSws2","outcome","order.Coriobacteriales.id.810","Weighted median",14,-0.184336939779665,0.91067637505398,0.839590258724366
+"m0ByAU","knSws2","outcome","order.Desulfovibrionales.id.3156","Inverse variance weighted",12,-0.440122422463399,0.718405872379784,0.54011601561252
+"m0ByAU","knSws2","outcome","order.Desulfovibrionales.id.3156","MR Egger",12,-2.08723380773766,1.81279241317225,0.276356373894915
+"m0ByAU","knSws2","outcome","order.Desulfovibrionales.id.3156","Weighted median",12,0.120623481392582,0.835901807973018,0.88526088562929
+"dSCeM7","knSws2","outcome","order.Enterobacteriales.id.3468","Inverse variance weighted",7,-0.247660429569834,0.841883230442761,0.768624700096898
+"dSCeM7","knSws2","outcome","order.Enterobacteriales.id.3468","MR Egger",7,-5.97091955471603,5.02614432100924,0.28819356356585
+"dSCeM7","knSws2","outcome","order.Enterobacteriales.id.3468","Weighted median",7,-0.270811983483158,1.15804232311295,0.815098892843363
+"FlVBaS","knSws2","outcome","order.Erysipelotrichales.id.2148","Inverse variance weighted",13,0.531899732135117,0.716361951062365,0.457783620314354
+"FlVBaS","knSws2","outcome","order.Erysipelotrichales.id.2148","MR Egger",13,-0.530925304067531,3.23966225746604,0.872795692437359
+"FlVBaS","knSws2","outcome","order.Erysipelotrichales.id.2148","Weighted median",13,1.18607920638436,0.956240222435125,0.214843396402782
+"9i4tiU","knSws2","outcome","order.Gastranaerophilales.id.1591","Inverse variance weighted",9,-0.424211672103497,0.491647972301843,0.388227528379331
+"9i4tiU","knSws2","outcome","order.Gastranaerophilales.id.1591","MR Egger",9,-1.75981521979649,1.47945719798334,0.273020148149783
+"9i4tiU","knSws2","outcome","order.Gastranaerophilales.id.1591","Weighted median",9,-0.448432253189432,0.65306863388512,0.492300729686561
+"jfZByg","knSws2","outcome","order.Lactobacillales.id.1800","Inverse variance weighted",15,0.454443155669285,0.681586342950795,0.504936089241798
+"jfZByg","knSws2","outcome","order.Lactobacillales.id.1800","MR Egger",15,1.49105714577226,1.80271433877594,0.423093217366828
+"jfZByg","knSws2","outcome","order.Lactobacillales.id.1800","Weighted median",15,0.194973214797774,0.880075430163615,0.824670841190376
+"NKNDGp","knSws2","outcome","order.Methanobacteriales.id.120","Inverse variance weighted",10,-0.321746128456329,0.366692263210921,0.380254107615064
+"NKNDGp","knSws2","outcome","order.Methanobacteriales.id.120","MR Egger",10,0.200799126463101,1.51848406296494,0.898062608908113
+"NKNDGp","knSws2","outcome","order.Methanobacteriales.id.120","Weighted median",10,-0.468978630953041,0.490084006243128,0.338599968786286
+"rsbOlb","knSws2","outcome","order.MollicutesRF9.id.11579","Inverse variance weighted",13,-0.104410085789652,0.537943899566663,0.846104604749496
+"rsbOlb","knSws2","outcome","order.MollicutesRF9.id.11579","MR Egger",13,2.61764059194784,1.62951488319919,0.136489139149753
+"rsbOlb","knSws2","outcome","order.MollicutesRF9.id.11579","Weighted median",13,-0.113608142814371,0.745950869023937,0.878950509456954
+"j0mByI","knSws2","outcome","order.NB1n.id.3953","Inverse variance weighted",12,0.196556147321819,0.433610101329072,0.650331589802477
+"j0mByI","knSws2","outcome","order.NB1n.id.3953","MR Egger",12,2.45852940329432,1.67863731025221,0.173748323761942
+"j0mByI","knSws2","outcome","order.NB1n.id.3953","Weighted median",12,0.308555493603031,0.515545770157218,0.549504611988419
+"jHia6Z","knSws2","outcome","order.Pasteurellales.id.3688","Inverse variance weighted",14,-0.447237321520379,0.422431541396036,0.28972666959065
+"jHia6Z","knSws2","outcome","order.Pasteurellales.id.3688","MR Egger",14,-2.03991894464707,0.921517293613741,0.0469712501874561
+"jHia6Z","knSws2","outcome","order.Pasteurellales.id.3688","Weighted median",14,-0.79842910655686,0.624854859638802,0.20132584320405
+"staWrf","knSws2","outcome","order.Rhodospirillales.id.2667","Inverse variance weighted",14,-0.291239926961841,0.468801199431125,0.534439100762612
+"staWrf","knSws2","outcome","order.Rhodospirillales.id.2667","MR Egger",14,3.10431580352241,1.74567039256785,0.10068014449307
+"staWrf","knSws2","outcome","order.Rhodospirillales.id.2667","Weighted median",14,0.21728896222911,0.599766546928606,0.717135903340683
+"qiWbrh","knSws2","outcome","order.Selenomonadales.id.2165","Inverse variance weighted",12,-0.43440028047766,0.703647188138357,0.53700043676032
+"qiWbrh","knSws2","outcome","order.Selenomonadales.id.2165","MR Egger",12,0.134303157813973,2.42562067135022,0.956935450422664
+"qiWbrh","knSws2","outcome","order.Selenomonadales.id.2165","Weighted median",12,-0.0875089096989948,0.921024494417377,0.92430483797312
+"BPW89n","knSws2","outcome","order.Verrucomicrobiales.id.4030","Inverse variance weighted",11,0.446805544259772,0.581075084263141,0.441935398448898
+"BPW89n","knSws2","outcome","order.Verrucomicrobiales.id.4030","MR Egger",11,0.56606948984124,1.9087808998889,0.773531697540287
+"BPW89n","knSws2","outcome","order.Verrucomicrobiales.id.4030","Weighted median",11,0.69297258999896,0.779195265165193,0.373818261519457
+"C1xV1V","knSws2","outcome","order.Victivallales.id.2254","Inverse variance weighted",8,-0.0736202652683994,0.449276562921779,0.869838189292943
+"C1xV1V","knSws2","outcome","order.Victivallales.id.2254","MR Egger",8,0.131170147984905,1.61054409077114,0.937737241097926
+"C1xV1V","knSws2","outcome","order.Victivallales.id.2254","Weighted median",8,-0.0732945030093509,0.622415250053448,0.906259246129065
+"II0qrp","knSws2","outcome","phylum.Actinobacteria.id.400","Inverse variance weighted",15,0.0527415170348316,0.787145400857859,0.946578896469396
+"II0qrp","knSws2","outcome","phylum.Actinobacteria.id.400","MR Egger",15,-1.72949513627634,3.42152059414427,0.621686017499759
+"II0qrp","knSws2","outcome","phylum.Actinobacteria.id.400","Weighted median",15,-0.171246552918845,0.992624237235055,0.863029515847465
+"oChqj7","knSws2","outcome","phylum.Bacteroidetes.id.905","Inverse variance weighted",10,-0.472523596196247,0.751293929886893,0.529384161788788
+"oChqj7","knSws2","outcome","phylum.Bacteroidetes.id.905","MR Egger",10,-1.75827015606607,1.64093490411695,0.315199966391599
+"oChqj7","knSws2","outcome","phylum.Bacteroidetes.id.905","Weighted median",10,-1.36774617841563,0.996687267929016,0.169972488214859
+"PcT6eJ","knSws2","outcome","phylum.Cyanobacteria.id.1500","Inverse variance weighted",8,-0.153801760173117,0.538929154525012,0.775349960916404
+"PcT6eJ","knSws2","outcome","phylum.Cyanobacteria.id.1500","MR Egger",8,0.774255861148357,1.90136052137844,0.697982118987527
+"PcT6eJ","knSws2","outcome","phylum.Cyanobacteria.id.1500","Weighted median",8,0.156072768366424,0.666310262199854,0.814803029177682
+"2neTKK","knSws2","outcome","phylum.Euryarchaeota.id.55","Inverse variance weighted",12,-0.430335877795431,0.376466072900665,0.252999820281827
+"2neTKK","knSws2","outcome","phylum.Euryarchaeota.id.55","MR Egger",12,0.255682307212904,1.73830606859573,0.885986495226952
+"2neTKK","knSws2","outcome","phylum.Euryarchaeota.id.55","Weighted median",12,-0.386210248718176,0.497172434326873,0.437268822740858
+"0rWmph","knSws2","outcome","phylum.Firmicutes.id.1672","Inverse variance weighted",15,0.456149971053938,0.741744985072296,0.538575371806279
+"0rWmph","knSws2","outcome","phylum.Firmicutes.id.1672","MR Egger",15,3.7313880158947,1.82800213339255,0.0620690147501583
+"0rWmph","knSws2","outcome","phylum.Firmicutes.id.1672","Weighted median",15,0.271488187265311,0.920831136754615,0.768124126812449
+"gkAVOW","knSws2","outcome","phylum.Lentisphaerae.id.2238","Inverse variance weighted",9,-0.0231473616977508,0.420734865127913,0.956125314833243
+"gkAVOW","knSws2","outcome","phylum.Lentisphaerae.id.2238","MR Egger",9,0.192235471450272,1.61376781210808,0.908525152089024
+"gkAVOW","knSws2","outcome","phylum.Lentisphaerae.id.2238","Weighted median",9,0.232320704546159,0.580737648214376,0.68912399159259
+"7ioeKt","knSws2","outcome","phylum.Proteobacteria.id.2375","Inverse variance weighted",12,-0.414802154559427,0.730334117635134,0.570060651593247
+"7ioeKt","knSws2","outcome","phylum.Proteobacteria.id.2375","MR Egger",12,-2.43520589270535,2.00629439266743,0.252718911344537
+"7ioeKt","knSws2","outcome","phylum.Proteobacteria.id.2375","Weighted median",12,0.0847672180596282,0.945656738051706,0.92857451707819
+"6gX3qe","knSws2","outcome","phylum.Tenericutes.id.3919","Inverse variance weighted",12,0.0869709687618882,0.642074189687439,0.892253607080139
+"6gX3qe","knSws2","outcome","phylum.Tenericutes.id.3919","MR Egger",12,1.60983727715234,2.25765464541239,0.492114372148906
+"6gX3qe","knSws2","outcome","phylum.Tenericutes.id.3919","Weighted median",12,0.445872677737845,0.793768803046791,0.574309496335911
+"fE3r8h","knSws2","outcome","phylum.Verrucomicrobia.id.3982","Inverse variance weighted",12,0.219031036336815,0.549407377104342,0.690137988881483
+"fE3r8h","knSws2","outcome","phylum.Verrucomicrobia.id.3982","MR Egger",12,-0.147697177566913,1.41977859398019,0.919203700050646
+"fE3r8h","knSws2","outcome","phylum.Verrucomicrobia.id.3982","Weighted median",12,-0.0648628374670865,0.73949522977133,0.93010533254397
